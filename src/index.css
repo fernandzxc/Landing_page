@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.asd {
+    background-image: url('BALBALA.PNG');
+}
