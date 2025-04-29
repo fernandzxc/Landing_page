@@ -1,10 +1,10 @@
 const Section_hero = () => {
   return (
-    <div className="bg-[url('bg-masthead.jpg')] h-[calc(100vh-76px)] bg-cover bg-center flex flex-col justify-center items-center gap-16">
-      <h1 className="text-white text-6xl w-[550px] text-center">
+    <div className="bg-[url('bg-masthead.jpg')] h-[calc(100vh-56px)] bg-cover object-contain bg-center flex flex-col justify-center items-center gap-16">
+      <h1 className="text-teal-900 text-6xl w-[550px] text-center">
         Genera mas clientes potenciales con una pagina!
       </h1>
-      <div className="w-[550px] flex gap-6">
+      {/* <div className="w-[550px] flex gap-6">
         <input
           className="w-full p-4 rounded-[6px] text-lg outline-none"
           type="text"
@@ -16,7 +16,7 @@ const Section_hero = () => {
         >
           Enviar
         </button>
-      </div>
+      </div> */}
     </div>
   );
 };

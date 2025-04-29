@@ -16,7 +16,7 @@ function App() {
         <div className="py-20 flex justify-around">
           <Section_hero4
             img={"testimonials-1.jpg"}
-            title={"Ramon Perez"}
+            title={"Diana Morales"}
             paragraph={
               "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id e dolorem distinctio, nihil, repudiandae harum commodi molestias esse"
             }
