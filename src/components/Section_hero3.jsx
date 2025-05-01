@@ -1,4 +1,4 @@
-import Section_hero2 from "./section_hero2";
+import Section_hero2 from "./Section_hero2";
 
 const Section_hero3 = () => {
   return (
