@@ -1,5 +1,5 @@
-import Footer from "./components/footer";
-import Header from "./components/header";
+import Footer from "./components/Footer";
+import Header from "./components/Header";
 import Section_hero from "./components/Section_hero";
 import Section_hero1 from "./components/Section_hero1";
 import Section_hero3 from "./components/Section_hero3";
